@@ -2,25 +2,29 @@
 
 # MikroJit Technologies
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=network+design;server+infrastructure;automation)](https://mikrojit.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=network+design;server+infrastructure;automation;self-hosted+%26+observable)](https://mikrojit.com)
 
-```bash
-$ whoami
-> MikroJit Technologies
+```
 
-$ cat location.txt
-Bangkok, TH
+  MikroJit Technologies
+  ─────────────────────
+  OS         Self-Hosted Infrastructure
+  Focus      Network · Servers · Automation
+  Stack      Docker, K3s, TypeScript, Python, Go
+  Status     Available for new engagements
+  Location   Bangkok, TH
+  Contact    contact@thiraphat.work
 
-$ contact --info
-mikrojit.com
-contact@thiraphat.work
 ```
 
 [![Website](https://img.shields.io/badge/-mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0284C7)](https://mikrojit.com)
 [![Email](https://img.shields.io/badge/-contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:contact@thiraphat.work)
 [![Location](https://img.shields.io/badge/-Bangkok%2C_TH-475569?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=475569)](https://mikrojit.com)
+[![Status](https://img.shields.io/badge/-Available-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=16A34A)](mailto:contact@thiraphat.work)
 
 [About](#about) · [What We Do](#what-we-do) · [Approach](#approach) · [Stack](#stack) · [Contact](#contact)
+
+![Profile views](https://komarev.com/ghpvc/?username=MikroJitTechnologies&label=Profile%20Views&color=0284C7&style=flat-square)
 
 </div>
 
