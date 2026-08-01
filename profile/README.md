@@ -1,35 +1,60 @@
 # MikroJit Technologies
 
-Independent practice covering network design, server infrastructure, and the
-automation layer that ties them together — from initial architecture through
-day-to-day operations.
+MikroJit Technologies is an independent technology practice based in Bangkok,
+Thailand, specializing in network design, server infrastructure, and
+automation for organizations that need reliable, self-hosted systems.
 
-**Site:** [mikrojit.com](https://mikrojit.com)
+## About Us
+
+We work across the full lifecycle of a system — from architecture and initial
+build-out to the ongoing operations that keep it running. Our clients range
+from small teams needing a single well-run server to organizations operating
+multi-node clusters across several locations.
+
+## Our Services
+
+**Network Design & Engineering**
+Segmentation, routing, VPN architecture, and firewall policy — designed for
+the scale of the deployment, from single-site LANs to multi-location
+infrastructure.
+
+**Server Infrastructure**
+Deployment and operation of Kubernetes and Docker Swarm environments, on
+bare-metal hardware or virtual private servers, including high-availability
+and backup strategy.
+
+**Automation & DevOps**
+CI/CD pipeline design, deployment tooling, and monitoring/alerting systems
+that keep infrastructure observable and incidents actionable.
+
+**Client Platforms**
+Custom web portals, administrative dashboards, and the backend services that
+support them.
+
+## Our Approach
+
+- **Self-hosted first** — we favor infrastructure our clients own and control
+  over vendor lock-in
+- **Built to operate, not just to ship** — every system we deliver comes with
+  monitoring, backups, and a clear operational runbook
+- **Direct engagement** — no account managers or ticket queues; you work
+  directly with the engineer who built your system
+
+## Technology
+
+Docker · Kubernetes (K3s) · TypeScript / Next.js · Python · Go · PostgreSQL ·
+Grafana & Prometheus · Cloudflare
+
+## Contact
+
+**Website:** [mikrojit.com](https://mikrojit.com)
+**Email:** [contact@thiraphat.work](mailto:contact@thiraphat.work)
 **Location:** Bangkok, Thailand
-**Contact:** [contact@thiraphat.work](mailto:contact@thiraphat.work)
 
-## What we do
-
-- **Network design** — segmentation, routing, VPN, and firewall policy, scaled
-  from homelab setups to production LANs
-- **Server infrastructure** — Kubernetes, Docker Swarm, and self-hosted
-  deployments on bare metal or VPS
-- **Automation** — CI/CD pipelines, deploy tooling, and the monitoring/alerting
-  glue that keeps services observable
-- **Client platforms** — portals, dashboards, and the backend services behind
-  them
-
-## Stack
-
-Docker · Kubernetes (K3s) · TypeScript · Next.js · Python · Go · PostgreSQL ·
-Cloudflare Tunnel · Grafana/Prometheus
-
-## Working with us
-
-Client engagements are invite-only — there's no self-service signup. Get in
-touch through the site or by email and we'll take it from there. Repositories
-in this organization are private; access is granted per project.
+New engagements begin by invitation — reach out via the site or by email to
+discuss a project. Repositories under this organization are private; access
+is granted on a per-project basis to active clients and collaborators.
 
 ---
 
-Bangkok, Thailand
+© MikroJit Technologies · Bangkok, Thailand
