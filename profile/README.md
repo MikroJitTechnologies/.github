@@ -4,14 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=network+design;server+infrastructure;automation;self-hosted+%26+observable)](https://mikrojit.com)
 
-|  |  |
-|---|---|
-| 🖥️ &nbsp;**OS** | Self-Hosted Infrastructure |
-| 🎯 &nbsp;**Focus** | Network · Servers · Automation |
-| 🧱 &nbsp;**Stack** | Docker, K3s, TypeScript, Python, Go |
-| 🟢 &nbsp;**Status** | Available for new engagements |
-| 📍 &nbsp;**Location** | Bangkok, TH |
-| ✉️ &nbsp;**Contact** | contact@thiraphat.work |
+<table>
+<tr><td align="right"><b>Focus</b></td><td><img src="https://img.shields.io/badge/-Network%20·%20Servers%20·%20Automation-0284C7?style=flat-square"></td></tr>
+<tr><td align="right"><b>Status</b></td><td><img src="https://img.shields.io/badge/-Available%20for%20new%20engagements-16A34A?style=flat-square"></td></tr>
+<tr><td align="right"><b>Location</b></td><td><img src="https://img.shields.io/badge/-Bangkok%2C%20TH-475569?style=flat-square"></td></tr>
+<tr><td align="right"><b>Contact</b></td><td><img src="https://img.shields.io/badge/-contact%40thiraphat.work-0F172A?style=flat-square"></td></tr>
+</table>
 
 [![Website](https://img.shields.io/badge/-mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0284C7)](https://mikrojit.com)
 [![Email](https://img.shields.io/badge/-contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:contact@thiraphat.work)
