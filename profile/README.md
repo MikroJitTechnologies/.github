@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=160&section=header&text=MikroJit%20Technologies&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Network%20design%2C%20server%20infrastructure%2C%20and%20automation&descAlignY=60&descColor=e0f2fe" width="100%"/>
+# MikroJit Technologies
+
+Network design, server infrastructure, and automation.
 
 [![Website](https://img.shields.io/badge/mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mikrojit.com)
 [![Email](https://img.shields.io/badge/contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thiraphat.work)
@@ -125,8 +127,6 @@ project to active clients and collaborators once an engagement starts.
 <div align="center">
 
 **[mikrojit.com](https://mikrojit.com)** · **[contact@thiraphat.work](mailto:contact@thiraphat.work)** · Bangkok, Thailand
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=100&section=footer" width="100%"/>
 
 © MikroJit Technologies
 
