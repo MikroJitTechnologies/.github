@@ -6,7 +6,11 @@
 [![Email](https://img.shields.io/badge/contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thiraphat.work)
 [![Location](https://img.shields.io/badge/Bangkok%2C_Thailand-64748B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mikrojit.com)
 
+[About](#about) · [What We Do](#what-we-do) · [Our Approach](#our-approach) · [Built With](#built-with) · [Working With Us](#working-with-us)
+
 </div>
+
+---
 
 ## About
 
@@ -21,6 +25,8 @@ there as trust is established. We stay hands-on through the entire lifecycle:
 design, build, deploy, and the years of operation afterward.
 
 <br>
+
+## What We Do
 
 <table align="center">
 <tr>
@@ -70,6 +76,8 @@ and maintained end to end.
 </tr>
 </table>
 
+---
+
 ## Our Approach
 
 - **Self-hosted first** — infrastructure our clients own and control, not
@@ -86,7 +94,7 @@ and maintained end to end.
 
 <div align="center">
 
-### Built with
+### Built With
 
 ![Docker](https://img.shields.io/badge/Docker-0284C7?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0284C7?style=flat-square&logo=kubernetes&logoColor=white)
@@ -100,6 +108,8 @@ and maintained end to end.
 ![Prometheus](https://img.shields.io/badge/Prometheus-0284C7?style=flat-square&logo=prometheus&logoColor=white)
 
 </div>
+
+---
 
 ## Working With Us
 
