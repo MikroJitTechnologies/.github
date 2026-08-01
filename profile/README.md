@@ -13,9 +13,9 @@ $ contact
 mikrojit.com · contact@thiraphat.work
 ```
 
-[![Website](https://img.shields.io/badge/mikrojit.com-0284C7?style=flat-square&logo=googlechrome&logoColor=white)](https://mikrojit.com)
-[![Email](https://img.shields.io/badge/contact%40thiraphat.work-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@thiraphat.work)
-[![Location](https://img.shields.io/badge/Bangkok%2C_TH-64748B?style=flat-square&logo=googlemaps&logoColor=white)](https://mikrojit.com)
+[![Website](https://img.shields.io/badge/-mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0284C7)](https://mikrojit.com)
+[![Email](https://img.shields.io/badge/-contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:contact@thiraphat.work)
+[![Location](https://img.shields.io/badge/-Bangkok%2C_TH-475569?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=475569)](https://mikrojit.com)
 
 [About](#about) · [What We Do](#what-we-do) · [Approach](#approach) · [Stack](#stack) · [Contact](#contact)
 
