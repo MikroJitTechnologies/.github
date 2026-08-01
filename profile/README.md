@@ -2,15 +2,18 @@
 
 # MikroJit Technologies
 
-```
-$ whoami
-network design · server infrastructure · automation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=network+design;server+infrastructure;automation)](https://mikrojit.com)
 
-$ location
+```bash
+$ whoami
+> MikroJit Technologies
+
+$ cat location.txt
 Bangkok, TH
 
-$ contact
-mikrojit.com · contact@thiraphat.work
+$ contact --info
+mikrojit.com
+contact@thiraphat.work
 ```
 
 [![Website](https://img.shields.io/badge/-mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0284C7)](https://mikrojit.com)
