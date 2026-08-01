@@ -4,18 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=network+design;server+infrastructure;automation;self-hosted+%26+observable)](https://mikrojit.com)
 
-```
-
-  MikroJit Technologies
-  ─────────────────────
-  OS         Self-Hosted Infrastructure
-  Focus      Network · Servers · Automation
-  Stack      Docker, K3s, TypeScript, Python, Go
-  Status     Available for new engagements
-  Location   Bangkok, TH
-  Contact    contact@thiraphat.work
-
-```
+|  |  |
+|---|---|
+| 🖥️ &nbsp;**OS** | Self-Hosted Infrastructure |
+| 🎯 &nbsp;**Focus** | Network · Servers · Automation |
+| 🧱 &nbsp;**Stack** | Docker, K3s, TypeScript, Python, Go |
+| 🟢 &nbsp;**Status** | Available for new engagements |
+| 📍 &nbsp;**Location** | Bangkok, TH |
+| ✉️ &nbsp;**Contact** | contact@thiraphat.work |
 
 [![Website](https://img.shields.io/badge/-mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0284C7)](https://mikrojit.com)
 [![Email](https://img.shields.io/badge/-contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:contact@thiraphat.work)
