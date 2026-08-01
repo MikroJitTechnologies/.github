@@ -1,60 +1,74 @@
-# MikroJit Technologies
+<div align="center">
 
-MikroJit Technologies is an independent technology practice based in Bangkok,
-Thailand, specializing in network design, server infrastructure, and
-automation for organizations that need reliable, self-hosted systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=160&section=header&text=MikroJit%20Technologies&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Network%20design%2C%20server%20infrastructure%2C%20and%20automation&descAlignY=60&descColor=e0f2fe" width="100%"/>
 
-## About Us
+[![Website](https://img.shields.io/badge/mikrojit.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mikrojit.com)
+[![Email](https://img.shields.io/badge/contact%40thiraphat.work-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thiraphat.work)
+[![Location](https://img.shields.io/badge/Bangkok%2C_Thailand-64748B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mikrojit.com)
 
-We work across the full lifecycle of a system — from architecture and initial
-build-out to the ongoing operations that keep it running. Our clients range
-from small teams needing a single well-run server to organizations operating
-multi-node clusters across several locations.
+</div>
 
-## Our Services
+<br>
 
-**Network Design & Engineering**
-Segmentation, routing, VPN architecture, and firewall policy — designed for
-the scale of the deployment, from single-site LANs to multi-location
-infrastructure.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**Server Infrastructure**
-Deployment and operation of Kubernetes and Docker Swarm environments, on
-bare-metal hardware or virtual private servers, including high-availability
-and backup strategy.
+### 🌐 Network Design
+Segmentation, routing, VPN, and firewall
+policy — from homelab scale to production
+LANs across multiple sites.
 
-**Automation & DevOps**
-CI/CD pipeline design, deployment tooling, and monitoring/alerting systems
-that keep infrastructure observable and incidents actionable.
+</td>
+<td width="50%" valign="top">
 
-**Client Platforms**
-Custom web portals, administrative dashboards, and the backend services that
-support them.
+### 🖥️ Server Infrastructure
+Kubernetes, Docker Swarm, and self-hosted
+deployments on bare metal or VPS, built
+for high availability.
 
-## Our Approach
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- **Self-hosted first** — we favor infrastructure our clients own and control
-  over vendor lock-in
-- **Built to operate, not just to ship** — every system we deliver comes with
-  monitoring, backups, and a clear operational runbook
-- **Direct engagement** — no account managers or ticket queues; you work
-  directly with the engineer who built your system
+### 🔁 Automation
+CI/CD pipelines, deploy tooling, and the
+monitoring/alerting systems that keep
+infrastructure observable.
 
-## Technology
+</td>
+<td width="50%" valign="top">
 
-Docker · Kubernetes (K3s) · TypeScript / Next.js · Python · Go · PostgreSQL ·
-Grafana & Prometheus · Cloudflare
+### 🧩 Client Platforms
+Portals, dashboards, and the backend
+services running behind them.
 
-## Contact
+</td>
+</tr>
+</table>
 
-**Website:** [mikrojit.com](https://mikrojit.com)
-**Email:** [contact@thiraphat.work](mailto:contact@thiraphat.work)
-**Location:** Bangkok, Thailand
+<br>
 
-New engagements begin by invitation — reach out via the site or by email to
-discuss a project. Repositories under this organization are private; access
-is granted on a per-project basis to active clients and collaborators.
+<div align="center">
 
----
+### Built with
 
-© MikroJit Technologies · Bangkok, Thailand
+![Docker](https://img.shields.io/badge/Docker-0284C7?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0284C7?style=flat-square&logo=kubernetes&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0284C7?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0284C7?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0284C7?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0284C7?style=flat-square&logo=cloudflare&logoColor=white)
+
+<br>
+
+**Client engagements are invite-only.** Repositories in this organization are
+private — reach out through [mikrojit.com](https://mikrojit.com) to start a
+conversation.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=100&section=footer" width="100%"/>
+
+</div>
